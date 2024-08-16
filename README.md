@@ -1,4 +1,4 @@
-# Student Q&A System
+# new Student Q&A System
 # Project Overview
 This project is an Object-Oriented Programming (OOP) using SOLID rules application developed in Java. It is designed to create and manage questions and answers for students across various subjects. The program allows for the creation of custom question sets according to specific educational requirements, making it a versatile tool for educators.
 
@@ -17,7 +17,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/student-qna-system.git
+git clone https://github.com/yourusername/create-test-new.git
 cd student-qna-system
 Compile the Program:
 Use your favorite IDE or compile from the command line:
