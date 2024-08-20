@@ -15,21 +15,21 @@ Data Structures: Utilizes Java collections for managing and organizing questions
 # How to Run the Program
 Clone the Repository:
 
-bash
-Copy code
+```bash
 git clone https://github.com/yourusername/create-test-new.git
-cd student-qna-system
+cd create-test-new
+```
 Compile the Program:
 Use your favorite IDE or compile from the command line:
 
-bash
-Copy code
+```bash
 javac -d bin src/*.java
+```
 Run the Program:
 
-bash
-Copy code
+```bash
 java -cp bin Main
+```
 Interact with the Application:
 Follow the prompts to create subjects, add questions, and manage student interactions.
 
